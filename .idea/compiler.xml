@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AREP-ParcialPractico1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AREP-ParcialPractico1" target="1.5" />
       <module name="Parcial1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
